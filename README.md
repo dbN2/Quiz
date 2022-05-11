@@ -1,2 +1,2 @@
 # Quiz
-a short quiz of practical math problems with GUI
+a short quiz of practical math problems using GUI
